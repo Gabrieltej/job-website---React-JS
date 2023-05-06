@@ -1,7 +1,7 @@
 # Getting started
 
 
-This is a job hunting website built using React.js that allows job seekers to search for job openings, location and location. The website provides a user-friendly interface that helps job seekers easily navigate through the job openings and find the perfect job for them. Navigation from one page to another is made possiblle with the help of the react router dom v6
+This is a job hunting website built using React.js that allows job seekers to search for job openings, location. The website provides a user-friendly interface that helps job seekers easily navigate through the job openings and find the perfect job for them. Navigation from one page to another is made possiblle with the help of the react router dom v6
 
 # Installation
 ## To install and run this project, follow these steps:
